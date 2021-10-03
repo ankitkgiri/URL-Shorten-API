@@ -6,6 +6,7 @@
 ## How do I run this on my PC?
 ### Get the repo into a folder of your choice, Navigate to that folder.
 ### Make sure you have Node installed 
+### Run the following commands
 ```bash
 # Install dependencies
 npm install
